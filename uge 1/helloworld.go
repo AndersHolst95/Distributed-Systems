@@ -9,7 +9,7 @@ func main() {
 	fmt.Println("Hello world!")
 	var i int
 	i = 3
-	k := 6
+	k := 7234
 	k++
 	fmt.Println(k + i)
 	go main()
